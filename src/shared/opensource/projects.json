@@ -1,24 +1,28 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "gomoku-project-2025",
+      "name": "Gomoku AI Game",
+      "createdAt": "2025-04-15T00:00:00Z",
+      "url": "https://your-gomoku-project.vercel.app/",
+      "description": "An online Gomoku game featuring a customizable grid and pieces, powered by a Minimax-based AI opponent. Built with React, Tailwind CSS, and Python for AI logic.",
       "isFork": false,
       "languages": [
         {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "vscode-icons:file-type-tailwind"
+        },
+        {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
         }
       ]
     },
